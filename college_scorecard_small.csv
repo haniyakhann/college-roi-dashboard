@@ -1,0 +1,1080 @@
+Institution,State,Cost,MedianDebt,MedianEarnings,UndergradSize
+Alabama A & M University,AL,23751.0,16600,40628.0,5726.0
+University of Alabama at Birmingham,AL,27826.0,15832,54501.0,12118.0
+University of Alabama in Huntsville,AL,27098.0,13905,61767.0,6650.0
+Alabama State University,AL,22028.0,17500,34502.0,3322.0
+The University of Alabama,AL,32024.0,17986,59221.0,32323.0
+Central Alabama Community College,AL,19815.0,5500,33506.0,1134.0
+Auburn University at Montgomery,AL,21873.0,13119,44391.0,2693.0
+Auburn University,AL,34402.0,17750,65337.0,25732.0
+Birmingham-Southern College,AL,38385.0,16000,59481.0,713.0
+Chattahoochee Valley Community College,AL,12032.0,5900,36438.0,1044.0
+South University-Montgomery,AL,30704.0,13000,34421.0,302.0
+Enterprise State Community College,AL,14798.0,5500,42572.0,1476.0
+Coastal Alabama Community College,AL,15171.0,5500,34894.0,4714.0
+Faulkner University,AL,36910.0,15000,43457.0,1555.0
+Gadsden State Community College,AL,10687.0,PS,32937.0,3619.0
+George C Wallace Community College-Dothan,AL,9863.0,PS,31399.0,3053.0
+George C Wallace State Community College-Hanceville,AL,18748.0,8200,39842.0,4413.0
+George C Wallace State Community College-Selma,AL,9505.0,PS,31598.0,828.0
+Herzing University-Birmingham,AL,27195.0,11756,36909.0,445.0
+Huntingdon College,AL,39686.0,20000,49601.0,865.0
+J. F. Drake State Community and Technical College,AL,11908.0,PS,28281.0,719.0
+Jacksonville State University,AL,23422.0,14000,45235.0,7030.0
+Jefferson State Community College,AL,14384.0,4500,40719.0,5443.0
+John C Calhoun State Community College,AL,12687.0,6010,38192.0,6928.0
+Lawson State Community College,AL,15028.0,PS,31701.0,2720.0
+University of West Alabama,AL,22402.0,13000,44232.0,2666.0
+Lurleen B Wallace Community College,AL,10223.0,PS,32307.0,1122.0
+Marion Military Institute,AL,18458.0,5500,59644.0,308.0
+Miles College,AL,22900.0,15691,32627.0,1151.0
+University of Mobile,AL,38731.0,19000,43611.0,1079.0
+University of Montevallo,AL,26233.0,16000,42957.0,2087.0
+Northwest Shoals Community College,AL,10894.0,5500,33828.0,1924.0
+University of North Alabama,AL,22086.0,15781,45415.0,5468.0
+Northeast Alabama Community College,AL,10620.0,4400,34913.0,1547.0
+Oakwood University,AL,38592.0,21500,42488.0,1253.0
+Reid State Technical College,AL,9066.0,PS,28982.0,365.0
+Bishop State Community College,AL,11530.0,PS,29916.0,2100.0
+Samford University,AL,53934.0,15750,58469.0,3828.0
+Shelton State Community College,AL,16607.0,PS,35014.0,3191.0
+Snead State Community College,AL,12583.0,6450,35735.0,1494.0
+University of South Alabama,AL,22070.0,17750,49379.0,8540.0
+Spring Hill College,AL,37172.0,21500,51500.0,850.0
+Stillman College,AL,23485.0,16000,35421.0,761.0
+Talladega College,AL,23441.0,15000,32229.0,782.0
+H Councill Trenholm State Community College,AL,12148.0,PS,32183.0,1584.0
+Troy University,AL,21816.0,15985,42062.0,10089.0
+Tuskegee University,AL,41924.0,21250,49641.0,2367.0
+Bevill State Community College,AL,15238.0,PS,34107.0,2189.0
+University of Alaska Anchorage,AK,21848.0,11231,51871.0,6916.0
+University of Alaska Fairbanks,AK,21182.0,11283,48866.0,4027.0
+University of Alaska Southeast,AK,16796.0,10500,48475.0,920.0
+Alaska Pacific University,AK,34964.0,12696,54271.0,400.0
+Charter College,AK,31188.0,11884,35504.0,2277.0
+Arizona State University Campus Immersion,AZ,28047.0,13610,62668.0,64398.0
+Arizona Western College,AZ,15857.0,4500,36857.0,6198.0
+University of Arizona,AZ,28543.0,13750,59979.0,40769.0
+Central Arizona College,AZ,9024.0,6157,40513.0,4892.0
+Cochise County Community College District,AZ,13638.0,5500,38033.0,3007.0
+Eastern Arizona College,AZ,16280.0,PS,38018.0,3058.0
+Embry-Riddle Aeronautical University-Prescott,AZ,60158.0,14250,84131.0,3245.0
+Glendale Community College,AZ,18056.0,4500,43108.0,10180.0
+Grand Canyon University,AZ,31493.0,12500,42186.0,68619.0
+GateWay Community College,AZ,18316.0,4500,46147.0,3473.0
+Mesa Community College,AZ,18975.0,4500,44034.0,12049.0
+Mohave Community College,AZ,10952.0,8000,35522.0,2750.0
+Dine College,AZ,13872.0,PS,29188.0,1507.0
+Northern Arizona University,AZ,29495.0,12916,54384.0,23041.0
+Northland Pioneer College,AZ,14174.0,PS,34199.0,1024.0
+Phoenix College,AZ,18033.0,5250,40870.0,6952.0
+Pima Community College,AZ,8916.0,4500,39810.0,13869.0
+Prescott College,AZ,47228.0,12500,42359.0,253.0
+Rio Salado College,AZ,13740.0,4375,41015.0,4879.0
+Scottsdale Community College,AZ,19682.0,4500,47905.0,4274.0
+South Mountain Community College,AZ,17872.0,4500,39825.0,2612.0
+Arizona Christian University,AZ,50950.0,6251,51612.0,1127.0
+Yavapai College,AZ,12642.0,6762,39890.0,3732.0
+University of Arkansas at Little Rock,AR,21013.0,14500,45265.0,4740.0
+Arkansas Baptist College,AR,22626.0,8250,28418.0,373.0
+Lyon College,AR,44943.0,10699,44232.0,563.0
+University of Arkansas,AR,26161.0,15749,58191.0,27312.0
+University of Arkansas at Pine Bluff,AR,20907.0,14328,35550.0,1899.0
+Arkansas State University-Beebe,AR,14799.0,5500,36603.0,1902.0
+Arkansas State University,AR,22823.0,15000,42617.0,7994.0
+Arkansas Tech University,AR,21536.0,11350,41766.0,5993.0
+University of Arkansas at Monticello,AR,20741.0,11364,36902.0,1868.0
+Baptist Health College Little Rock,AR,37054.0,9500,62244.0,512.0
+Black River Technical College,AR,14624.0,6000,34818.0,938.0
+University of Central Arkansas,AR,24265.0,13000,45938.0,7426.0
+Central Baptist College,AR,27468.0,12876,46789.0,477.0
+Cossatot Community College of the University of Arkansas,AR,11738.0,PS,33775.0,835.0
+Crowley's Ridge College,AR,25817.0,13918,39533.0,162.0
+East Arkansas Community College,AR,13028.0,4750,28471.0,492.0
+National Park College,AR,17994.0,6250,32444.0,1706.0
+University of Arkansas Community College-Batesville,AR,16591.0,7085,33706.0,788.0
+Harding University,AR,36385.0,21601,52876.0,3323.0
+Henderson State University,AR,25946.0,12000,43459.0,1491.0
+Hendrix College,AR,52396.0,19500,60376.0,1094.0
+John Brown University,AR,43260.0,17000,53907.0,1415.0
+Arkansas State University Mid-South,AR,12556.0,PS,31857.0,435.0
+Arkansas Northeastern College,AR,12037.0,PS,33169.0,787.0
+North Arkansas College,AR,16367.0,5928,34653.0,1184.0
+Northwest Technical Institute,AR,16032.0,PS,41513.0,217.0
+Ouachita Baptist University,AR,45132.0,15000,51673.0,1612.0
+Arkansas State University Three Rivers,AR,12748.0,6500,37374.0,514.0
+Ozarka College,AR,11461.0,7713,29314.0,564.0
+University of the Ozarks,AR,35391.0,11000,44384.0,753.0
+University of Arkansas Community College-Morrilton,AR,17345.0,6300,34924.0,1538.0
+Philander Smith University,AR,26729.0,14750,38427.0,842.0
+Phillips Community College of the University of Arkansas,AR,11778.0,3500,29552.0,595.0
+Southeast Arkansas College,AR,15876.0,6186,33603.0,748.0
+University of Arkansas-Pulaski Technical College,AR,21096.0,7000,34722.0,3791.0
+University of Arkansas Hope-Texarkana,AR,13787.0,3500,34162.0,697.0
+University of Arkansas Community College Rich Mountain,AR,12933.0,4875,30037.0,475.0
+Williams Baptist University,AR,32222.0,9500,38484.0,490.0
+South Arkansas College,AR,12138.0,7000,34521.0,879.0
+Southern Arkansas University Main Campus,AR,24721.0,12500,42386.0,2865.0
+Southern Arkansas University Tech,AR,16488.0,4500,36376.0,663.0
+University of Arkansas-Fort Smith,AR,18052.0,10750,41102.0,4133.0
+Academy of Art University,CA,47195.0,11000,39008.0,4131.0
+College of Alameda,CA,17578.0,9500,42563.0,4274.0
+Allan Hancock College,CA,11544.0,7888,42786.0,7812.0
+American Academy of Dramatic Arts-Los Angeles,CA,55265.0,12000,27019.0,169.0
+American River College,CA,12986.0,9354,40162.0,25758.0
+Antelope Valley Community College District,CA,15158.0,8619,36526.0,10905.0
+Art Center College of Design,CA,71652.0,26000,71958.0,2054.0
+Azusa Pacific University,CA,54735.0,19710,66677.0,2977.0
+Bakersfield College,CA,13726.0,9500,37291.0,16451.0
+Barstow Community College,CA,20871.0,3463,35104.0,2585.0
+Biola University,CA,58430.0,19000,56778.0,3390.0
+Bryan University,AZ,26688.0,13763,40283.0,2083.0
+Butte College,CA,13636.0,8250,41810.0,8384.0
+Cabrillo College,CA,23625.0,9500,44114.0,7404.0
+California Baptist University,CA,52408.0,20500,61504.0,7914.0
+California College of the Arts,CA,78664.0,19500,49414.0,1004.0
+California Institute of Technology,CA,83598.0,12000,128566.0,1023.0
+California Lutheran University,CA,63768.0,18970,68712.0,2374.0
+California Polytechnic State University-San Luis Obispo,CA,29918.0,15396,90768.0,21521.0
+California State University-Bakersfield,CA,18815.0,11270,59009.0,8183.0
+California State University-Stanislaus,CA,18542.0,11750,63188.0,8564.0
+California State University-San Bernardino,CA,16910.0,12445,59977.0,15771.0
+California State Polytechnic University-Pomona,CA,22672.0,13437,71902.0,24271.0
+California State University-Chico,CA,25590.0,14500,64172.0,13057.0
+California State University-Dominguez Hills,CA,15449.0,11902,57162.0,12642.0
+California State University-Fresno,CA,18650.0,12463,61244.0,21070.0
+California State University-Fullerton,CA,16767.0,12000,62951.0,36956.0
+California State University-East Bay,CA,22803.0,12500,71401.0,10422.0
+California State University-Long Beach,CA,20310.0,12227,64403.0,34131.0
+California State University-Los Angeles,CA,17153.0,11966,59211.0,21478.0
+California State University-Northridge,CA,20317.0,12000,59115.0,32357.0
+California State University-Sacramento,CA,22714.0,12500,64876.0,27867.0
+University of California-Berkeley,CA,42708.0,12000,92446.0,33073.0
+University of California-Davis,CA,38067.0,11000,80838.0,31777.0
+University of California-Irvine,CA,36121.0,13820,80735.0,29494.0
+University of California-Los Angeles,CA,36643.0,12983,82511.0,33040.0
+University of California-Riverside,CA,34975.0,14944,67699.0,22644.0
+University of California-San Diego,CA,36325.0,14778,84943.0,33787.0
+University of California-Santa Barbara,CA,36776.0,11875,74915.0,23205.0
+University of California-Santa Cruz,CA,38649.0,14334,68396.0,17812.0
+California Institute of the Arts,CA,78425.0,16994,41198.0,881.0
+California State University Maritime Academy,CA,27138.0,16889,94784.0,761.0
+Canada College,CA,9514.0,9272,50087.0,4878.0
+College of the Canyons,CA,10243.0,6375,49022.0,15365.0
+Cerritos College,CA,8409.0,8350,41156.0,18710.0
+Cerro Coso Community College,CA,15161.0,5500,34963.0,3496.0
+Chabot College,CA,12953.0,8973,48143.0,10861.0
+Chaffey College,CA,13553.0,4325,42975.0,13568.0
+Chapman University,CA,81327.0,17750,70070.0,7629.0
+Charles R Drew University of Medicine and Science,CA,33973.0,14750,83438.0,233.0
+Concordia University-Irvine,CA,56500.0,19000,65083.0,1456.0
+San Diego Christian College,CA,40057.0,13000,49766.0,91.0
+Citrus College,CA,12412.0,5500,42065.0,8126.0
+City College of San Francisco,CA,17007.0,7497,45805.0,16060.0
+Claremont McKenna College,CA,82127.0,11948,104736.0,1379.0
+Coastline Community College,CA,17984.0,7683,44483.0,7007.0
+University of Silicon Valley,CA,36361.0,18334,51017.0,377.0
+Columbia College,CA,19688.0,PS,39035.0,1917.0
+California College of ASU,CA,33732.0,13167,42014.0,149.0
+Compton College,CA,17782.0,6463,34181.0,2881.0
+Contra Costa College,CA,14511.0,4750,40850.0,4805.0
+Cosumnes River College,CA,12005.0,8563,42446.0,13527.0
+Crafton Hills College,CA,18384.0,PS,42553.0,5074.0
+Cuesta College,CA,20561.0,9500,46047.0,6879.0
+Cuyamaca College,CA,15940.0,5136,32435.0,6788.0
+Cypress College,CA,15752.0,7500,43533.0,12309.0
+De Anza College,CA,13167.0,6495,56596.0,14953.0
+College of the Desert,CA,20053.0,5261,39020.0,8900.0
+Design Institute of San Diego,CA,42093.0,24530,46920.0,92.0
+Diablo Valley College,CA,14804.0,6000,51378.0,14734.0
+Dominican University of California,CA,68620.0,24250,84713.0,1178.0
+East Los Angeles College,CA,18645.0,6999,42006.0,24401.0
+El Camino Community College District,CA,13376.0,4750,41589.0,18994.0
+Evergreen Valley College,CA,22557.0,9250,53077.0,7670.0
+FIDM-Fashion Institute of Design & Merchandising,CA,53393.0,12000,49840.0,1319.0
+Feather River Community College District,CA,16502.0,7000,38142.0,1574.0
+Foothill College,CA,15772.0,6795,57072.0,10922.0
+Fresno City College,CA,12063.0,3500,37361.0,18774.0
+Fresno Pacific University,CA,42673.0,19250,58896.0,1614.0
+Fullerton College,CA,16206.0,6500,43366.0,16637.0
+Gavilan College,CA,10484.0,5841,47169.0,4410.0
+Glendale Community College,CA,15802.0,7000,41540.0,9807.0
+Golden West College,CA,12206.0,5500,43145.0,8919.0
+Grossmont College,CA,11543.0,4500,40309.0,11467.0
+Hartnell College,CA,12050.0,4500,44316.0,7153.0
+Harvey Mudd College,CA,84896.0,19500,138687.0,915.0
+California State Polytechnic University-Humboldt,CA,24412.0,14500,47626.0,5491.0
+Humphreys University-Stockton and Modesto Campuses,CA,20286.0,25000,39248.0,178.0
+Imperial Valley College,CA,12466.0,PS,34487.0,6881.0
+Irvine Valley College,CA,11750.0,4500,49156.0,9577.0
+Reedley College,CA,11413.0,3500,38493.0,4853.0
+Life Pacific University,CA,33193.0,14000,43299.0,393.0
+University of La Verne,CA,61564.0,21000,65464.0,3341.0
+Laguna College of Art and Design,CA,56183.0,18875,47867.0,776.0
+Lake Tahoe Community College,CA,17731.0,5100,36657.0,2909.0
+Laney College,CA,22777.0,9301,37282.0,7158.0
+Lassen Community College,CA,17063.0,5500,35994.0,1564.0
+La Sierra University,CA,49365.0,18500,61824.0,1155.0
+Long Beach City College,CA,12664.0,7000,38870.0,21899.0
+Southern California University of Health Sciences,CA,50742.0,10950,70649.0,132.0
+Los Angeles Harbor College,CA,19463.0,5795,41133.0,6496.0
+Los Angeles Pierce College,CA,19844.0,12500,44521.0,13029.0
+Los Angeles Southwest College,CA,14768.0,10000,32172.0,3793.0
+Los Angeles Trade Technical College,CA,18516.0,9500,35233.0,10165.0
+Los Angeles Valley College,CA,18625.0,9500,42678.0,12470.0
+The Master's University and Seminary,CA,48682.0,16327,57106.0,1606.0
+Los Angeles City College,CA,16176.0,9500,36190.0,10857.0
+Los Angeles Mission College,CA,19525.0,10432,39834.0,8031.0
+Los Medanos College,CA,13850.0,9326,42454.0,7100.0
+Loyola Marymount University,CA,75867.0,15000,78349.0,7171.0
+College of Marin,CA,23789.0,10062,42654.0,3928.0
+Mendocino College,CA,16746.0,9500,40243.0,2857.0
+Menlo College,CA,69879.0,13000,76419.0,811.0
+Merced College,CA,12722.0,4188,37815.0,9677.0
+Merritt College,CA,22559.0,9500,44392.0,5153.0
+MiraCosta College,CA,15713.0,9488,43845.0,10474.0
+Mission College,CA,15047.0,8816,50936.0,5557.0
+Modesto Junior College,CA,14769.0,3375,42368.0,14714.0
+Monterey Peninsula College,CA,21993.0,8250,42176.0,5759.0
+Moorpark College,CA,9685.0,7161,49044.0,12011.0
+Mt San Antonio College,CA,12077.0,5500,46283.0,25311.0
+Mount Saint Mary's University,CA,64637.0,22167,72379.0,1746.0
+Mt San Jacinto Community College District,CA,15091.0,7000,38319.0,14859.0
+Musicians Institute,CA,41795.0,6334,32778.0,735.0
+Napa Valley College,CA,21563.0,9371,49517.0,3205.0
+National University,CA,37116.0,18750,67548.0,9725.0
+Newschool of Architecture and Design,CA,57642.0,23618,68891.0,212.0
+Occidental College,CA,80636.0,19000,75951.0,1844.0
+Ohlone College,CA,22906.0,9500,54278.0,6958.0
+Orange Coast College,CA,13191.0,6175,47348.0,16117.0
+Otis College of Art and Design,CA,71880.0,20000,58152.0,1242.0
+Oxnard College,CA,9317.0,7500,41393.0,6059.0
+Hope International University,CA,51153.0,15738,49697.0,549.0
+Pacific Union College,CA,47244.0,19500,70484.0,910.0
+University of the Pacific,CA,68173.0,17653,78445.0,3247.0
+Palo Verde College,CA,21205.0,PS,36389.0,2909.0
+Palomar College,CA,13997.0,3500,42300.0,16167.0
+Pasadena City College,CA,12166.0,6036,43937.0,20624.0
+Pepperdine University,CA,85202.0,19500,82939.0,3629.0
+Pitzer College,CA,82832.0,13000,69512.0,1191.0
+Point Loma Nazarene University,CA,56664.0,19500,63998.0,3132.0
+Pomona College,CA,81196.0,10000,77779.0,1638.0
+Porterville College,CA,12522.0,PS,36328.0,2775.0
+Santa Ana College,CA,11848.0,5500,43552.0,22011.0
+University of Redlands,CA,70233.0,21250,72690.0,2095.0
+College of the Redwoods,CA,12251.0,6666,36243.0,3514.0
+Rio Hondo College,CA,19308.0,4750,44950.0,15365.0
+Riverside City College,CA,12427.0,5500,41091.0,17361.0
+Sacramento City College,CA,13062.0,9256,42214.0,16952.0
+Saddleback College,CA,11792.0,6988,50874.0,15959.0
+San Diego City College,CA,13255.0,4500,38503.0,10584.0
+San Diego Mesa College,CA,12964.0,4500,45120.0,15899.0
+San Diego Miramar College,CA,11428.0,4239,48224.0,10740.0
+San Diego State University,CA,27357.0,12847,64909.0,33654.0
+University of San Diego,CA,74879.0,19019,86522.0,5619.0
+San Francisco State University,CA,25258.0,12923,68077.0,20033.0
+University of San Francisco,CA,76421.0,19000,89812.0,5697.0
+San Joaquin Delta College,CA,17137.0,7000,43212.0,13964.0
+William Jessup University,CA,52172.0,14419,56257.0,1021.0
+San Jose City College,CA,24038.0,5500,46215.0,7039.0
+San Jose State University,CA,25695.0,12000,78988.0,26757.0
+College of San Mateo,CA,11875.0,6875,54172.0,7359.0
+Santa Barbara City College,CA,18682.0,8250,47647.0,10070.0
+Santa Clara University,CA,77768.0,16845,109183.0,6235.0
+Santa Monica College,CA,11353.0,6500,42193.0,21194.0
+Santa Rosa Junior College,CA,13649.0,7250,47224.0,14327.0
+Scripps College,CA,83330.0,11853,77539.0,1077.0
+College of the Sequoias,CA,8553.0,4500,39092.0,10752.0
+Shasta College,CA,11881.0,9500,39269.0,5536.0
+Sierra College,CA,12628.0,9500,45294.0,13455.0
+Simpson University,CA,52366.0,13000,54340.0,751.0
+College of the Siskiyous,CA,14448.0,8000,39098.0,1080.0
+Skyline College,CA,10461.0,7500,55702.0,7132.0
+San Bernardino Valley College,CA,14655.0,3938,39676.0,11106.0
+Saint Mary's College of California,CA,73655.0,19500,78812.0,2024.0
+Solano Community College,CA,11440.0,9500,44170.0,7688.0
+Sonoma State University,CA,24739.0,13000,65986.0,5374.0
+South Coast College,CA,25025.0,17346,44897.0,241.0
+Vanguard University of Southern California,CA,50178.0,15000,59541.0,1975.0
+Southwestern College,CA,19717.0,4044,40060.0,16640.0
+Southern California Institute of Architecture,CA,67014.0,33250,71909.0,236.0
+University of Southern California,CA,84678.0,16112,92498.0,20817.0
+Taft College,CA,13012.0,PS,38861.0,3216.0
+Thomas Aquinas College,CA,40000.0,18000,55619.0,539.0
+Ventura College,CA,9762.0,6500,43430.0,9971.0
+Victor Valley College,CA,11786.0,7500,36119.0,12107.0
+Berkeley City College,CA,17110.0,9500,41217.0,4541.0
+Coalinga College,CA,17249.0,5500,37633.0,2177.0
+West Los Angeles College,CA,15839.0,9500,38537.0,7277.0
+West Valley College,CA,13351.0,7000,51688.0,6086.0
+Westmont College,CA,68826.0,19343,64778.0,1310.0
+Whittier College,CA,63925.0,18125,59492.0,812.0
+Woodbury University,CA,58180.0,21500,65668.0,825.0
+Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,CA,27600.0,PS,48361.0,157.0
+Yuba College,CA,12200.0,6000,39552.0,4311.0
+Adams State University,CO,23800.0,11750,44372.0,1239.0
+Aims Community College,CO,14478.0,5250,41887.0,3182.0
+Arapahoe Community College,CO,16348.0,6500,48341.0,5392.0
+Bel-Rea Institute of Animal Technology,CO,29807.0,11666,39506.0,161.0
+University of Colorado Denver/Anschutz Medical Campus,CO,23369.0,14500,64270.0,10686.0
+University of Colorado Colorado Springs,CO,23713.0,12965,54659.0,8870.0
+Spartan College of Aeronautics and Technology,CO,33357.0,14750,59093.0,321.0
+University of Colorado Boulder,CO,33466.0,13000,69738.0,31578.0
+Colorado Christian University,CO,50206.0,14000,50416.0,5363.0
+Colorado College,CO,83228.0,13400,65222.0,2139.0
+Colorado Mountain College,CO,13717.0,5500,44127.0,2821.0
+Colorado Northwestern Community College,CO,21006.0,8250,43526.0,500.0
+Colorado School of Mines,CO,38556.0,17500,97335.0,5801.0
+Colorado State University-Fort Collins,CO,29696.0,14750,60543.0,25148.0
+Colorado Technical University-Colorado Springs,CO,21694.0,12166,37180.0,25932.0
+Community College of Aurora,CO,16210.0,6500,44592.0,3346.0
+Community College of Denver,CO,18377.0,5500,39095.0,5156.0
+University of Denver,CO,75020.0,18000,71155.0,6059.0
+Fort Lewis College,CO,25558.0,9000,46349.0,3070.0
+Front Range Community College,CO,18087.0,7000,45910.0,11132.0
+Lamar Community College,CO,19366.0,5973,38719.0,406.0
+Colorado Mesa University,CO,22883.0,11000,45823.0,7604.0
+Metropolitan State University of Denver,CO,22825.0,12500,52093.0,14932.0
+Morgan Community College,CO,15797.0,5500,39429.0,619.0
+Naropa University,CO,52900.0,14750,28720.0,368.0
+Northeastern Junior College,CO,20246.0,5500,39893.0,825.0
+University of Northern Colorado,CO,26989.0,13805,52231.0,5693.0
+Otero College,CO,20413.0,6000,39018.0,642.0
+Pikes Peak State College,CO,18345.0,4900,40796.0,9307.0
+Pueblo Community College,CO,19251.0,5750,37434.0,3293.0
+Red Rocks Community College,CO,18048.0,4900,46288.0,4281.0
+Regis University,CO,54889.0,19750,72105.0,2599.0
+Rocky Mountain College of Art and Design,CO,33950.0,9500,42958.0,1878.0
+Colorado State University Pueblo,CO,23891.0,14475,55563.0,3028.0
+Pickens Technical College,CO,11474.0,PS,39210.0,646.0
+Trinidad State College,CO,21373.0,6500,36475.0,1168.0
+Western Colorado University,CO,25426.0,12000,46833.0,1653.0
+Albertus Magnus College,CT,56268.0,25000,60144.0,882.0
+University of Bridgeport,CT,52786.0,19500,50323.0,1450.0
+Central Connecticut State University,CT,24112.0,16750,58562.0,7670.0
+Charter Oak State College,CT,22558.0,12422,64209.0,1620.0
+Connecticut College,CT,82219.0,20000,75001.0,1960.0
+Porter & Chester Institute of Hamden,CT,26012.0,9500,42914.0,333.0
+University of Connecticut,CT,36572.0,18610,73997.0,19147.0
+Goodwin University,CT,39745.0,14221,43596.0,2761.0
+Eastern Connecticut State University,CT,30805.0,18500,56469.0,3377.0
+Fairfield University,CT,73371.0,23251,88794.0,4938.0
+Connecticut State Community College,CT,15360.0,5235,41344.0,32292.0
+University of Hartford,CT,62273.0,19500,60823.0,4032.0
+Mitchell College,CT,54089.0,15000,39115.0,421.0
+University of New Haven,CT,63970.0,20475,60126.0,4799.0
+Porter & Chester Institute,CT,25552.0,9500,41588.0,1405.0
+Post University,CT,27202.0,8750,38696.0,18975.0
+Quinnipiac University,CT,69666.0,21500,83759.0,6208.0
+Sacred Heart University,CT,66669.0,19860,75059.0,6904.0
+University of Saint Joseph,CT,56786.0,24000,59908.0,825.0
+Southern Connecticut State University,CT,28592.0,15000,55043.0,6180.0
+Trinity College,CT,83090.0,21000,90779.0,2193.0
+Wesleyan University,CT,85172.0,13824,73897.0,2973.0
+Western Connecticut State University,CT,24534.0,17002,59115.0,3434.0
+Yale University,CT,85120.0,11648,100533.0,6811.0
+Delaware Technical Community College-Terry,DE,13177.0,5500,41448.0,11012.0
+Delaware State University,DE,27536.0,17500,49307.0,4630.0
+University of Delaware,DE,29347.0,21000,72950.0,18812.0
+Goldey-Beacom College,DE,24633.0,14375,59892.0,634.0
+Wilmington University,DE,19326.0,14308,53844.0,8497.0
+American University,DC,71549.0,19500,77370.0,7593.0
+The Catholic University of America,DC,73198.0,22250,73250.0,3063.0
+University of the District of Columbia,DC,20911.0,14250,44236.0,3080.0
+Gallaudet University,DC,39416.0,12750,43101.0,879.0
+George Washington University,DC,80727.0,19500,90873.0,10848.0
+Georgetown University,DC,84696.0,13500,103494.0,7462.0
+Howard University,DC,51450.0,19200,63066.0,9604.0
+Trinity Washington University,DC,35061.0,19402,53804.0,1415.0
+Baptist University of Florida,FL,20596.0,17073,42836.0,248.0
+Barry University,FL,48300.0,15750,55966.0,2245.0
+Bethune-Cookman University,FL,29782.0,22500,38518.0,2414.0
+Lynn University,FL,60817.0,10413,49006.0,2820.0
+Eastern Florida State College,FL,11174.0,8279,37195.0,10162.0
+Broward College,FL,24948.0,4500,41939.0,23799.0
+Albizu University-Miami,FL,48144.0,5000,41544.0,225.0
+College of Central Florida,FL,17950.0,8550,38203.0,4717.0
+Johnson University Florida,FL,29179.0,13500,40596.0,136.0
+University of Central Florida,FL,22819.0,15000,58308.0,59095.0
+Charlotte Technical College,FL,15126.0,PS,36349.0,295.0
+Chipola College,FL,8804.0,PS,37378.0,1218.0
+Daytona State College,FL,11662.0,5500,37096.0,9367.0
+South University-West Palm Beach,FL,28722.0,13000,34421.0,284.0
+Eckerd College,FL,66936.0,19500,51819.0,1984.0
+Florida SouthWestern State College,FL,14644.0,5000,43421.0,10613.0
+Edward Waters University,FL,26973.0,11000,34782.0,1113.0
+Embry-Riddle Aeronautical University-Daytona Beach,FL,59972.0,14250,84131.0,7535.0
+Florida Agricultural and Mechanical University,FL,24047.0,17855,44349.0,7516.0
+Florida Atlantic University,FL,21054.0,12500,56746.0,23458.0
+Florida State College at Jacksonville,FL,8994.0,8750,42244.0,17739.0
+Flagler College,FL,41734.0,15000,49483.0,2404.0
+Florida College,FL,32188.0,10000,43445.0,589.0
+AdventHealth University,FL,38194.0,18000,72282.0,1068.0
+Florida Institute of Technology,FL,60387.0,14049,43137.0,3235.0
+Florida International University,FL,20556.0,14246,60249.0,38761.0
+The College of the Florida Keys,FL,19965.0,8250,42508.0,823.0
+Florida Memorial University,FL,31940.0,16475,36624.0,1299.0
+Florida Southern College,FL,57174.0,19500,55294.0,2607.0
+Florida State University,FL,23683.0,16100,61675.0,31812.0
+University of Florida,FL,21719.0,14000,71588.0,34102.0
+Full Sail University,FL,39814.0,14038,38219.0,25195.0
+Gulf Coast State College,FL,12208.0,5500,38359.0,3614.0
+Key College,FL,16912.0,PS,42267.0,16.0
+Hillsborough Community College,FL,10168.0,6000,40782.0,19998.0
+Hobe Sound Bible College,FL,17545.0,PS,39863.0,125.0
+Indian River State College,FL,11764.0,5500,38315.0,11571.0
+Jacksonville University,FL,61414.0,12803,68010.0,2649.0
+Keiser University-Ft Lauderdale,FL,45701.0,13000,39696.0,17370.0
+Florida Gateway College,FL,11879.0,5500,37894.0,2231.0
+Lake-Sumter State College,FL,12292.0,4500,39876.0,3572.0
+Luther Rice College & Seminary,GA,11544.0,16094,47003.0,195.0
+State College of Florida-Manatee-Sarasota,FL,28277.0,5720,40318.0,7161.0
+Trinity International University-Florida,FL,22540.0,19500,46989.0,69.0
+Miami Dade College,FL,12535.0,7500,40654.0,35001.0
+University of Miami,FL,77708.0,15250,75328.0,12570.0
+North Florida College,FL,8897.0,PS,33929.0,817.0
+University of North Florida,FL,20229.0,11750,56343.0,13915.0
+Nova Southeastern University,FL,55647.0,16985,59209.0,7171.0
+Northwest Florida State College,FL,12217.0,5500,39664.0,3193.0
+Palm Beach Atlantic University,FL,55576.0,13816,49232.0,2427.0
+Palm Beach State College,FL,16741.0,5061,41923.0,20532.0
+Pasco-Hernando State College,FL,11152.0,7000,39903.0,6933.0
+Pensacola State College,FL,9718.0,5500,36739.0,6725.0
+Polk State College,FL,12709.0,6500,40624.0,5954.0
+Ridge Technical College,FL,27493.0,PS,33484.0,375.0
+Ringling College of Art and Design,FL,75726.0,27000,43325.0,1719.0
+Rollins College,FL,72790.0,21385,58295.0,2582.0
+Saint Leo University,FL,41727.0,14250,48364.0,6999.0
+St Petersburg College,FL,10634.0,11000,42557.0,18759.0
+Santa Fe College,FL,14353.0,7125,41631.0,11133.0
+Seminole State College of Florida,FL,9152.0,7704,41733.0,11790.0
+Saint Johns River State College,FL,12215.0,8323,41728.0,3909.0
+South Florida State College,FL,9865.0,5387,39990.0,2084.0
+University of South Florida,FL,22301.0,14976,57743.0,36299.0
+St. Thomas University,FL,49762.0,9500,54272.0,1963.0
+Stetson University,FL,69807.0,15000,51642.0,2292.0
+Southeastern University,FL,43803.0,12000,46744.0,4646.0
+Tallahassee Community College,FL,13188.0,5350,37561.0,10357.0
+The University of Tampa,FL,49841.0,18750,59436.0,10093.0
+Trinity Baptist College,FL,25662.0,11500,37275.0,363.0
+Trinity College of Florida,FL,25585.0,12000,32465.0,187.0
+Valencia College,FL,16577.0,5840,40594.0,35125.0
+Warner University,FL,41556.0,13000,46086.0,753.0
+Webber International University,FL,48464.0,8750,45606.0,879.0
+Rasmussen University-Florida,FL,24746.0,13000,39080.0,3034.0
+University of West Florida,FL,18504.0,13000,49137.0,9042.0
+Abraham Baldwin Agricultural College,GA,13103.0,8750,34996.0,3218.0
+Agnes Scott College,GA,60585.0,17750,56274.0,898.0
+Interactive College of Technology-Chamblee,GA,20095.0,8661,27065.0,529.0
+Interactive College of Technology-Morrow,GA,20314.0,8661,27065.0,113.0
+Albany Technical College,GA,13811.0,5681,30541.0,2214.0
+Albany State University,GA,20574.0,12000,40674.0,5829.0
+Andrew College,GA,35996.0,9500,38475.0,287.0
+Atlanta Technical College,GA,9678.0,6334,30350.0,3044.0
+Point University,GA,34418.0,14502,38740.0,2617.0
+Atlanta Metropolitan State College,GA,11528.0,6606,33252.0,1348.0
+Clark Atlanta University,GA,40924.0,19500,42712.0,3482.0
+Augusta Technical College,GA,16410.0,5500,33523.0,3531.0
+Berry College,GA,55714.0,18900,53800.0,2213.0
+Beulah Heights University,GA,9992.0,38980,35236.0,158.0
+Brenau University,GA,45931.0,18425,54003.0,981.0
+Brewton-Parker College,GA,35557.0,8250,42009.0,684.0
+College of Coastal Georgia,GA,18975.0,8250,39318.0,2794.0
+West Georgia Technical College,GA,10012.0,5642,35479.0,4811.0
+Clayton  State University,GA,17940.0,16750,49179.0,4390.0
+Columbus Technical College,GA,12783.0,7245,34238.0,2668.0
+Columbus State University,GA,19953.0,15000,44544.0,5537.0
+Georgia Northwestern Technical College,GA,11575.0,3971,35759.0,4080.0
+Covenant College,GA,53368.0,19000,50412.0,858.0
+Dalton State College,GA,11292.0,7361,40251.0,4419.0
+South University-Savannah,GA,31163.0,13000,34421.0,246.0
+East Georgia State College,GA,15472.0,6374,37174.0,1368.0
+Emmanuel University,GA,35188.0,12000,38208.0,719.0
+Emory University,GA,78814.0,16750,80137.0,7275.0
+Georgia Highlands College,GA,12829.0,6750,43184.0,4441.0
+Fort Valley State University,GA,20342.0,19000,36666.0,2541.0
+Georgia Institute of Technology-Main Campus,GA,27797.0,20000,102772.0,18260.0
+Georgia Southwestern State University,GA,19234.0,11000,48757.0,2291.0
+Georgia College & State University,GA,27781.0,16018,58140.0,5599.0
+Georgia Southern University,GA,24563.0,15250,53236.0,21029.0
+Georgia State University,GA,26535.0,11750,47384.0,27109.0
+University of Georgia,GA,27436.0,16666,68726.0,31310.0
+Gordon State College,GA,14944.0,8750,37871.0,2605.0
+Southern Crescent Technical College,GA,13806.0,6334,36104.0,4035.0
+Gupton Jones College of Funeral Service,GA,25265.0,9500,42636.0,451.0
+Gwinnett College-Lilburn,GA,31673.0,9626,31422.0,132.0
+Gwinnett Technical College,GA,19078.0,7056,45025.0,7395.0
+LaGrange College,GA,47370.0,15750,51745.0,566.0
+Lanier Technical College,GA,13193.0,PS,37623.0,4147.0
+Life University,GA,41192.0,9500,47397.0,869.0
+Chattahoochee Technical College,GA,12295.0,PS,37138.0,7555.0
+Herzing University-Atlanta,GA,27195.0,11756,36909.0,499.0
+Mercer University,GA,56494.0,17655,58354.0,4620.0
+Morehouse College,GA,47347.0,18500,52889.0,2736.0
+North Georgia Technical College,GA,12572.0,5657,32932.0,1966.0
+Oglethorpe University,GA,59320.0,14750,55232.0,1429.0
+Paine College,GA,27310.0,11000,33338.0,338.0
+Piedmont University,GA,45359.0,18108,49130.0,1235.0
+Miami Ad School-Atlanta,GA,29647.0,16849,106192.0,74.0
+Reinhardt University,GA,45689.0,13156,46541.0,1012.0
+Savannah Technical College,GA,14545.0,3466,33018.0,2967.0
+Savannah College of Art and Design,GA,59670.0,15500,45954.0,14423.0
+Savannah State University,GA,17185.0,16500,37981.0,2727.0
+Shorter University,GA,34985.0,12500,44604.0,1091.0
+South Georgia Technical College,GA,13115.0,PS,30364.0,1302.0
+Spelman College,GA,49349.0,21750,59993.0,3633.0
+Thomas University,GA,26189.0,15000,49716.0,813.0
+Toccoa Falls College,GA,35666.0,11067,36630.0,820.0
+Truett McConnell University,GA,37692.0,12000,46700.0,768.0
+Wiregrass Georgia Technical College,GA,10925.0,2438,30864.0,2762.0
+Valdosta State University,GA,20202.0,13750,49361.0,6858.0
+Wesleyan College,GA,40591.0,15000,44317.0,466.0
+University of West Georgia,GA,23504.0,15000,49587.0,7485.0
+Young Harris College,GA,45389.0,12000,47195.0,810.0
+Chaminade University of Honolulu,HI,43637.0,17932,52343.0,1648.0
+University of Hawaii at Hilo,HI,20914.0,12500,47856.0,2260.0
+University of Hawaii at Manoa,HI,23832.0,13099,57624.0,14306.0
+Hawaii Pacific University,HI,49980.0,12000,59593.0,2502.0
+Honolulu Community College,HI,12369.0,5995,45105.0,1897.0
+Kapiolani Community College,HI,11562.0,6352,44599.0,3955.0
+Kauai Community College,HI,13608.0,7000,36868.0,726.0
+Leeward Community College,HI,13842.0,5500,39899.0,3382.0
+University of Hawaii Maui College,HI,16225.0,9500,34453.0,1635.0
+University of Hawaii-West Oahu,HI,18190.0,11848,52075.0,2510.0
+Windward Community College,HI,14492.0,7175,38439.0,1109.0
+Boise Bible College,ID,22045.0,12749,33140.0,103.0
+Boise State University,ID,25387.0,14000,51658.0,17081.0
+College of Eastern Idaho,ID,13392.0,7953,42057.0,1396.0
+Idaho State University,ID,21084.0,12500,45608.0,7260.0
+University of Idaho,ID,22669.0,15784,54670.0,7363.0
+The College of Idaho,ID,48451.0,17000,48473.0,1049.0
+Lewis-Clark State College,ID,18646.0,10989,46001.0,2277.0
+North Idaho College,ID,16699.0,5500,40081.0,2488.0
+Northwest Nazarene University,ID,50275.0,16826,51719.0,1138.0
+Brigham Young University-Idaho,ID,13357.0,8750,53406.0,42090.0
+College of Southern Idaho,ID,12115.0,5500,40916.0,3476.0
+American Academy of Art College,IL,45145.0,27000,34324.0,90.0
+School of the Art Institute of Chicago,IL,74138.0,19000,40151.0,2762.0
+Augustana College,IL,60798.0,26000,62971.0,2418.0
+Aurora University,IL,39232.0,15500,58709.0,4021.0
+Southwestern Illinois College,IL,12596.0,4000,36884.0,5280.0
+Black Hawk College,IL,11809.0,5302,37253.0,2266.0
+Blackburn College,IL,36962.0,14770,46802.0,341.0
+Bradley University,IL,52730.0,23250,66852.0,3865.0
+Carl Sandburg College,IL,10795.0,3500,35274.0,1124.0
+Chicago State University,IL,30454.0,21500,42778.0,1414.0
+University of Chicago,IL,86856.0,13368,91885.0,7540.0
+City Colleges of Chicago-Kennedy-King College,IL,11382.0,4994,28467.0,1564.0
+City Colleges of Chicago-Malcolm X College,IL,10279.0,6100,32427.0,5847.0
+City Colleges of Chicago-Olive-Harvey College,IL,12633.0,5250,31114.0,1425.0
+City Colleges of Chicago-Harry S Truman College,IL,10722.0,5524,36484.0,2248.0
+City Colleges of Chicago-Richard J Daley College,IL,9543.0,3500,37962.0,2540.0
+City Colleges of Chicago-Harold Washington College,IL,9996.0,4537,36531.0,4146.0
+City Colleges of Chicago-Wilbur Wright College,IL,9395.0,4370,41625.0,4186.0
+Columbia College Chicago,IL,49799.0,16500,42195.0,6294.0
+Concordia University-Chicago,IL,44252.0,14000,54089.0,1337.0
+Danville Area Community College,IL,10398.0,3975,34867.0,1360.0
+DePaul University,IL,59467.0,19383,68751.0,14283.0
+College of DuPage,IL,13314.0,5500,46909.0,15185.0
+East-West University,IL,30062.0,7334,29963.0,528.0
+Eastern Illinois University,IL,26164.0,15722,51989.0,4398.0
+Elgin Community College,IL,9837.0,4790,45516.0,6463.0
+Elmhurst University,IL,51829.0,15000,61462.0,2954.0
+Eureka College,IL,38518.0,15000,51641.0,522.0
+Fox College,IL,21635.0,13625,41539.0,239.0
+Governors State University,IL,23076.0,14000,58169.0,2518.0
+Graham Hospital School of Nursing,IL,27408.0,5250,63586.0,36.0
+Greenville University,IL,43713.0,15000,46827.0,873.0
+Hebrew Theological College,IL,21742.0,9924,33291.0,81.0
+Highland Community College,IL,12397.0,5500,37928.0,926.0
+University of Illinois Chicago,IL,26998.0,13657,68740.0,21814.0
+Benedictine University,IL,46548.0,17500,63446.0,1817.0
+University of Illinois Urbana-Champaign,IL,32134.0,16500,81054.0,34623.0
+Illinois Wesleyan University,IL,68399.0,23221,70871.0,1570.0
+Illinois Central College,IL,17251.0,5500,37366.0,4909.0
+Illinois College,IL,47337.0,14746,52575.0,925.0
+Olney Central College,IL,17518.0,5500,37533.0,549.0
+Illinois Institute of Technology,IL,67720.0,20687,82592.0,2812.0
+Illinois State University,IL,32458.0,15750,62117.0,18414.0
+Illinois Valley Community College,IL,11563.0,6500,40810.0,1851.0
+John A Logan College,IL,12682.0,3500,34096.0,2018.0
+John Wood Community College,IL,13346.0,5500,38631.0,1387.0
+Joliet Junior College,IL,9757.0,5500,42889.0,8843.0
+Judson University,IL,43951.0,14000,56313.0,780.0
+Kankakee Community College,IL,12209.0,5500,38767.0,1904.0
+Kaskaskia College,IL,12038.0,3500,38801.0,1842.0
+Kishwaukee College,IL,14504.0,6542,39657.0,1794.0
+Knox College,IL,65796.0,23852,54820.0,997.0
+College of Lake County,IL,10969.0,5376,43424.0,9282.0
+Lake Forest College,IL,68191.0,21500,61825.0,1782.0
+Lake Land College,IL,10023.0,3970,38877.0,2492.0
+Lewis and Clark Community College,IL,9167.0,5500,37724.0,2252.0
+Lewis University,IL,45843.0,18750,66099.0,3665.0
+Lincoln Christian University,IL,28671.0,15000,43038.0,44.0
+Lincoln Land Community College,IL,11600.0,6500,38479.0,3917.0
+Loyola University Chicago,IL,64167.0,20500,71530.0,11576.0
+Generations College,IL,25660.0,19000,34706.0,317.0
+McHenry County College,IL,12971.0,5297,45143.0,4335.0
+McKendree University,IL,47121.0,16240,58572.0,1600.0
+Methodist College,IL,26280.0,27000,69800.0,374.0
+Millikin University,IL,41297.0,19000,51262.0,1458.0
+Monmouth College,IL,55529.0,20000,51110.0,725.0
+Moody Bible Institute,IL,34510.0,12000,45399.0,1586.0
+Moraine Valley Community College,IL,11921.0,5500,43892.0,7417.0
+Morrison Institute of Technology,IL,30350.0,12000,63571.0,54.0
+Morton College,IL,12170.0,5500,42406.0,2593.0
+National Louis University,IL,25350.0,12500,45799.0,4100.0
+North Central College,IL,54803.0,18750,60123.0,2360.0
+North Park University,IL,42040.0,19875,59572.0,1844.0
+Northern Illinois University,IL,27214.0,16250,57808.0,11277.0
+Northwestern University,IL,87804.0,14000,89363.0,8960.0
+Northeastern Illinois University,IL,27208.0,11969,52234.0,3869.0
+Oakton College,IL,11344.0,3500,47852.0,6229.0
+Olivet Nazarene University,IL,50557.0,19313,53213.0,2485.0
+Parkland College,IL,14011.0,5250,38320.0,3293.0
+Prairie State College,IL,13813.0,8000,36696.0,2448.0
+Quincy University,IL,45102.0,13000,50369.0,1038.0
+Rend Lake College,IL,14638.0,4475,35775.0,1196.0
+Richland Community College,IL,11407.0,4500,38793.0,1412.0
+Rock Valley College,IL,14351.0,5500,39158.0,4362.0
+Rockford University,IL,47033.0,15000,54794.0,956.0
+Roosevelt University,IL,48426.0,14667,48712.0,2583.0
+Dominican University,IL,44414.0,18750,60327.0,2271.0
+University of St Francis,IL,45375.0,16500,63926.0,1292.0
+Saint Xavier University,IL,42237.0,16699,58656.0,3030.0
+University of Illinois Springfield,IL,23643.0,14000,57103.0,2292.0
+Sauk Valley Community College,IL,14253.0,5500,40458.0,1164.0
+Shawnee Community College,IL,13113.0,PS,32999.0,675.0
+St. Augustine College,IL,23056.0,4136,35723.0,749.0
+Southeastern Illinois College,IL,12139.0,PS,33763.0,659.0
+Spoon River College,IL,11871.0,6750,38386.0,735.0
+Southern Illinois University-Carbondale,IL,29268.0,17750,53390.0,8116.0
+Southern Illinois University-Edwardsville,IL,25302.0,15500,56346.0,8836.0
+Taylor Business Institute,IL,23713.0,4554,25559.0,70.0
+South Suburban College,IL,10713.0,PS,33680.0,2012.0
+Trinity Christian College,IL,47066.0,21358,55700.0,796.0
+Trinity International University-Illinois,IL,47751.0,19500,46989.0,140.0
+Triton College,IL,11608.0,5500,41728.0,6229.0
+VanderCook College of Music,IL,38850.0,27000,47863.0,70.0
+Waubonsee Community College,IL,14661.0,4500,44788.0,5499.0
+Western Illinois University,IL,27828.0,19762,54163.0,4939.0
+Wheaton College,IL,56447.0,20000,63756.0,2087.0
+William Rainey Harper College,IL,12833.0,6230,48071.0,8815.0
+Anderson University,IN,49098.0,19500,48899.0,1070.0
+Ball State University,IN,25134.0,16904,51833.0,13770.0
+Bethel University,IN,42276.0,19293,48860.0,1069.0
+Butler University,IN,64503.0,22238,77235.0,4383.0
+Calumet College of Saint Joseph,IN,31758.0,9500,46945.0,560.0
+College of Court Reporting Inc,IN,43083.0,13779,43927.0,183.0
+DePauw University,IN,72560.0,24733,70527.0,1804.0
+Earlham College,IN,64237.0,19500,50797.0,612.0
+University of Evansville,IN,56068.0,19000,53770.0,1477.0
+Franklin College,IN,50708.0,18998,55376.0,872.0
+Goshen College,IN,47206.0,13750,51943.0,761.0
+Grace College and Theological Seminary,IN,40539.0,16750,45411.0,1511.0
+Hanover College,IN,55798.0,19500,53957.0,958.0
+Holy Cross College,IN,48808.0,11904,50416.0,533.0
+Huntington University,IN,40088.0,18127,46672.0,1016.0
+Ivy Tech Community College,IN,13891.0,5835,37186.0,54926.0
+Purdue University Fort Wayne,IN,19714.0,10556,45872.0,5450.0
+Indiana University-Indianapolis,IN,22216.0,13337,55198.0,16582.0
+University of Indianapolis,IN,48674.0,18714,53610.0,3147.0
+Indiana Institute of Technology,IN,43490.0,12564,47327.0,1361.0
+University of Southern Indiana,IN,20749.0,13236,47605.0,5344.0
+Indiana State University,IN,23475.0,14574,48387.0,6620.0
+Indiana University-Kokomo,IN,13351.0,10000,49917.0,2308.0
+Indiana University-South Bend,IN,15984.0,12000,44947.0,3807.0
+Indiana University-Bloomington,IN,27361.0,15519,63742.0,36571.0
+Indiana University-Northwest,IN,13371.0,12478,43361.0,2582.0
+Indiana University-Southeast,IN,15313.0,11650,47596.0,3088.0
+Indiana University-East,IN,16756.0,12000,47156.0,2446.0
+International Business College-Indianapolis,IN,22651.0,11059,38146.0,145.0
+Manchester University,IN,48321.0,12250,51504.0,895.0
+Marian University,IN,52691.0,20000,58759.0,2336.0
+Indiana Wesleyan University-Marion,IN,42951.0,14335,59986.0,1927.0
+Martin University,IN,25074.0,24332,22544.0,164.0
+Mid-America College of Funeral Service,IN,30379.0,11625,44505.0,337.0
+University of Notre Dame,IN,80211.0,19000,99980.0,8923.0
+Oakland City University,IN,39307.0,12174,43283.0,470.0
+Rose-Hulman Institute of Technology,IN,74226.0,21751,101253.0,2224.0
+University of Saint Francis-Fort Wayne,IN,45228.0,18750,55362.0,1599.0
+Saint Mary-of-the-Woods College,IN,47143.0,13600,43845.0,896.0
+Saint Mary's College,IN,65706.0,23199,59354.0,1399.0
+Saint Elizabeth School of Nursing,IN,34606.0,19500,65230.0,131.0
+Taylor University,IN,51879.0,15500,52198.0,1890.0
+Trine University,IN,50004.0,18500,57165.0,2344.0
+Valparaiso University,IN,57393.0,22133,63191.0,2229.0
+Vincennes University,IN,19446.0,9227,41110.0,3739.0
+Wabash College,IN,62750.0,24855,69952.0,845.0
+Briar Cliff University,IA,49693.0,15506,54475.0,626.0
+Buena Vista University,IA,52490.0,17500,49156.0,1378.0
+Central College,IA,35177.0,20815,54317.0,1062.0
+Clarke University,IA,52899.0,19500,55396.0,782.0
+Coe College,IA,64682.0,20496,57125.0,1246.0
+Cornell College,IA,64336.0,21500,53460.0,1074.0
+Des Moines Area Community College,IA,15664.0,6500,41018.0,10406.0
+Dordt University,IA,49722.0,17500,52559.0,1547.0
+Drake University,IA,62407.0,19500,71901.0,2669.0
+University of Dubuque,IA,51060.0,17070,51190.0,1473.0
+Ellsworth Community College,IA,17157.0,6158,40562.0,540.0
+Emmaus Bible College,IA,30198.0,9350,42631.0,183.0
+Eastern Iowa Community College District,IA,14499.0,7970,39060.0,3244.0
+Faith Baptist Bible College and Theological Seminary,IA,30354.0,8750,40650.0,371.0
+Graceland University-Lamoni,IA,46850.0,14209,47361.0,901.0
+Grand View University,IA,46188.0,15097,52824.0,1472.0
+Grinnell College,IA,79228.0,14151,62830.0,1705.0
+Orion Technical College,IA,26127.0,9500,37008.0,73.0
+Hawkeye Community College,IA,15065.0,8750,42849.0,2528.0
+Indian Hills Community College,IA,14774.0,7125,40507.0,1635.0
+Iowa Central Community College,IA,15405.0,8000,42046.0,3107.0
+Iowa Lakes Community College,IA,17834.0,7242,43108.0,995.0
+Iowa State University,IA,23309.0,18750,63386.0,25033.0
+Iowa Western Community College,IA,18102.0,8098,42793.0,3029.0
+University of Iowa,IA,26883.0,18207,64762.0,21691.0
+Kirkwood Community College,IA,14797.0,7591,41016.0,7438.0
+Loras College,IA,48380.0,19500,58289.0,1087.0
+Luther College,IA,62845.0,22200,59850.0,1454.0
+Maharishi International University,IA,28730.0,11558,27981.0,774.0
+Marshalltown Community College,IA,13993.0,5500,41010.0,868.0
+Mercy College of Health Sciences,IA,30844.0,12500,62234.0,905.0
+Morningside University,IA,50429.0,15750,55494.0,1166.0
+Mount Mercy University,IA,52436.0,18500,60787.0,1135.0
+Ashford University,CA,30866.0,9500,35404.0,23734.0
+North Iowa Area Community College,IA,15161.0,6000,43462.0,1271.0
+University of Northern Iowa,IA,21627.0,16486,55177.0,7599.0
+Northwestern College,IA,48447.0,16791,49802.0,1125.0
+Northeast Iowa Community College,IA,16720.0,8284,41306.0,1736.0
+Northwest Iowa Community College,IA,17914.0,7000,50776.0,856.0
+Saint Ambrose University,IA,50018.0,19500,59531.0,2101.0
+St Luke's College,IA,27391.0,13000,61033.0,192.0
+Simpson College,IA,58937.0,20262,59274.0,1130.0
+Southeastern Community College,IA,16582.0,7398,36882.0,1529.0
+Southwestern Community College,IA,16399.0,7418,40129.0,774.0
+Upper Iowa University,IA,48422.0,18000,52766.0,2021.0
+Waldorf University,IA,38035.0,12025,51165.0,2103.0
+Wartburg College,IA,61832.0,19500,56201.0,1446.0
+Western Iowa Tech Community College,IA,14300.0,7000,40473.0,2589.0
+William Penn University,IA,40749.0,12000,48936.0,1391.0
+Allen County Community College,KS,13072.0,5021,40059.0,761.0
+Baker University,KS,48117.0,18530,63855.0,1080.0
+Barton County Community College,KS,17048.0,6250,40428.0,2273.0
+Benedictine College,KS,50820.0,18570,53175.0,2236.0
+Bethany College,KS,52396.0,9500,49694.0,583.0
+Bethel College-North Newton,KS,47672.0,12000,49898.0,499.0
+Butler Community College,KS,20278.0,6680,41206.0,5694.0
+Central Christian College of Kansas,KS,32495.0,15750,44468.0,394.0
+Cloud County Community College,KS,16432.0,6326,39883.0,807.0
+Coffeyville Community College,KS,11727.0,5500,35246.0,870.0
+Colby Community College,KS,12705.0,6206,41889.0,837.0
+Cowley County Community College,KS,12773.0,5250,37723.0,1548.0
+Dodge City Community College,KS,10039.0,5451,45427.0,1200.0
+Donnelly College,KS,22227.0,8747,35715.0,343.0
+Emporia State University,KS,20527.0,14000,47601.0,2328.0
+Flint Hills Technical College,KS,21137.0,6365,47007.0,341.0
+Fort Hays State University,KS,19114.0,14250,48928.0,9792.0
+Barclay College,KS,40190.0,24320,36355.0,161.0
+Friends University,KS,44401.0,17413,52113.0,1015.0
+Fort Scott Community College,KS,10838.0,5500,37213.0,763.0
+Garden City Community College,KS,14588.0,5200,41704.0,1321.0
+Haskell Indian Nations University,KS,10134.0,PS,37043.0,878.0
+Hesston College,KS,44939.0,12000,47495.0,308.0
+Highland Community College,KS,15854.0,5500,41291.0,1262.0
+Hutchinson Community College,KS,12881.0,6500,43470.0,2911.0
+Independence Community College,KS,12041.0,4750,34941.0,518.0
+Johnson County Community College,KS,18946.0,4500,45387.0,10634.0
+Kansas City Kansas Community College,KS,18095.0,5750,40795.0,3071.0
+University of Kansas,KS,25215.0,15500,61945.0,19857.0
+Newman University,KS,44081.0,15240,55041.0,857.0
+Kansas State University,KS,25441.0,17294,57262.0,14835.0
+Kansas Wesleyan University,KS,45683.0,15000,51152.0,894.0
+Washburn Institute of Technology,KS,17795.0,12500,49774.0,490.0
+Labette Community College,KS,13629.0,6500,37818.0,766.0
+Manhattan Area Technical College,KS,18055.0,7601,51864.0,328.0
+Manhattan Christian College,KS,34318.0,13000,48860.0,132.0
+McPherson College,KS,48404.0,13833,52084.0,786.0
+MidAmerica Nazarene University,KS,53495.0,12912,62972.0,977.0
+Neosho County Community College,KS,16555.0,5500,45966.0,848.0
+North Central Kansas Technical College,KS,22287.0,6850,46928.0,472.0
+Ottawa University-Ottawa,KS,51340.0,12500,55552.0,935.0
+Pittsburg State University,KS,22426.0,14000,50579.0,4162.0
+Pratt Community College,KS,15333.0,5500,51892.0,600.0
+University of Saint Mary,KS,45313.0,14817,59483.0,889.0
+Salina Area Technical College,KS,12938.0,5500,42175.0,352.0
+Seward County Community College,KS,12662.0,5000,41445.0,1140.0
+Southwestern College,KS,53677.0,12500,55646.0,1026.0
+Sterling College,KS,44836.0,12000,45846.0,569.0
+Tabor College,KS,48360.0,14000,54058.0,530.0
+Washburn University,KS,20949.0,12500,49774.0,4093.0
+Wichita State University-Campus of Applied Sciences and Technology,KS,16928.0,6650,38679.0,2778.0
+Wichita State University,KS,21064.0,14700,51532.0,10493.0
+Alice Lloyd College,KY,30294.0,7990,40573.0,528.0
+Asbury University,KY,46209.0,17500,42368.0,1369.0
+Ashland Community and Technical College,KY,13571.0,8000,34504.0,1566.0
+Bellarmine University,KY,60247.0,20000,62069.0,2286.0
+Berea College,KY,56068.0,3516,43150.0,1472.0
+Southcentral Kentucky Community and Technical College,KY,13738.0,7600,34242.0,2952.0
+Brescia University,KY,41865.0,20185,45500.0,538.0
+Campbellsville University,KY,40924.0,9500,41583.0,2641.0
+Bluegrass Community and Technical College,KY,13281.0,6755,36343.0,7713.0
+Centre College,KY,63354.0,25125,66240.0,1346.0
+Clear Creek Baptist Bible College,KY,20151.0,PS,41623.0,132.0
+University of the Cumberlands,KY,24654.0,8592,45036.0,5468.0
+Eastern Kentucky University,KY,22265.0,14929,45795.0,11674.0
+Elizabethtown Community and Technical College,KY,13502.0,5975,36143.0,3775.0
+Georgetown College,KY,56297.0,13000,52074.0,1180.0
+Hazard Community and Technical College,KY,12187.0,7000,29868.0,1404.0
+Henderson Community College,KY,13433.0,7457,35714.0,876.0
+Hopkinsville Community College,KY,12810.0,6999,36323.0,1498.0
+Jefferson Community and Technical College,KY,13488.0,6989,38171.0,7105.0
+American National University-Pikeville,KY,21504.0,10814,28188.0,229.0
+Kentucky Mountain Bible College,KY,16490.0,5500,21256.0,72.0
+Kentucky State University,KY,21023.0,12250,36382.0,1317.0
+Kentucky Wesleyan College,KY,43981.0,11000,46747.0,794.0
+University of Kentucky,KY,32291.0,16750,59025.0,23189.0
+Kentucky Christian University,KY,38893.0,8510,42375.0,438.0
+Lindsey Wilson College,KY,39568.0,11514,41129.0,1649.0
+University of Louisville,KY,30843.0,13750,53899.0,14187.0
+Madisonville Community College,KY,13413.0,5853,35733.0,1797.0
+Maysville Community and Technical College,KY,13015.0,8047,32194.0,2207.0
+Midway University,KY,41400.0,12470,44246.0,1250.0
+Morehead State University,KY,22758.0,14705,43197.0,4689.0
+Murray State University,KY,21475.0,15000,44737.0,6646.0
+Gateway Community and Technical College,KY,13849.0,8000,36147.0,2824.0
+Northern Kentucky University,KY,19471.0,15159,50220.0,8065.0
+West Kentucky Community and Technical College,KY,13457.0,6158,34891.0,2810.0
+University of Pikeville,KY,33271.0,12467,48231.0,1140.0
+Big Sandy Community and Technical College,KY,13046.0,6911,32954.0,1590.0
+Somerset Community College,KY,12464.0,8000,30787.0,3899.0
+Southeast Kentucky Community & Technical College,KY,12431.0,5500,29482.0,1680.0
+Spalding University,KY,43474.0,20500,49438.0,597.0
+Sullivan University,KY,31100.0,10688,38008.0,2498.0
+Thomas More University,KY,46342.0,14376,59384.0,1305.0
+Transylvania University,KY,58863.0,20000,54705.0,1014.0
+Union College,KY,44375.0,14250,42002.0,736.0
+Western Kentucky University,KY,23520.0,14702,43889.0,12267.0
+Central Louisiana Technical Community College,LA,11966.0,7000,29558.0,1100.0
+Bossier Parish Community College,LA,15872.0,9500,34502.0,5046.0
+Centenary College of Louisiana,LA,57929.0,15250,50330.0,615.0
+Delgado Community College,LA,19137.0,9500,33305.0,11182.0
+Dillard University,LA,36057.0,23048,39196.0,1111.0
+Nunez Community College,LA,17309.0,8250,35343.0,1495.0
+Grambling State University,LA,25100.0,24500,41109.0,4144.0
+ITI Technical College,LA,24236.0,12214,68342.0,513.0
+Louisiana State University-Alexandria,LA,15540.0,10500,42205.0,4414.0
+Louisiana State University and Agricultural & Mechanical College,LA,34328.0,12956,61251.0,29207.0
+Louisiana State University-Eunice,LA,16541.0,6989,36498.0,2617.0
+Louisiana State University-Shreveport,LA,19233.0,15000,47477.0,2150.0
+Louisiana Christian University,LA,30564.0,11000,51700.0,750.0
+Louisiana Tech University,LA,24405.0,15000,52279.0,7819.0
+Loyola University New Orleans,LA,61837.0,18500,52927.0,2999.0
+McNeese State University,LA,21168.0,13000,46453.0,4846.0
+University of New Orleans,LA,22605.0,11000,47872.0,4479.0
+Nicholls State University,LA,21519.0,13156,45454.0,4772.0
+University of Louisiana at Monroe,LA,23552.0,15000,46769.0,4891.0
+Northwest Louisiana Technical Community College,LA,17202.0,PS,32503.0,837.0
+Northwestern State University of Louisiana,LA,24496.0,15000,47021.0,5840.0
+University of Holy Cross,LA,28380.0,19500,49316.0,405.0
+Franciscan Missionaries of Our Lady University,LA,27314.0,16669,59419.0,826.0
+Saint Joseph Seminary College,LA,43395.0,PS,38366.0,91.0
+Fletcher Technical Community College,LA,16674.0,7500,32189.0,1999.0
+Remington College-Lafayette Campus,LA,35344.0,9500,31349.0,247.0
+SOWELA Technical Community College,LA,16402.0,4250,32303.0,2979.0
+Southeastern Louisiana University,LA,22647.0,11077,46482.0,9514.0
+Southern University and A & M College,LA,26076.0,15455,43371.0,5323.0
+Southern University at New Orleans,LA,20893.0,19500,34042.0,1095.0
+Southern University at Shreveport,LA,18188.0,7500,33099.0,1974.0
+University of Louisiana at Lafayette,LA,24631.0,14991,47089.0,12269.0
+Northshore Technical Community College,LA,15772.0,7772,29734.0,2156.0
+Tulane University of Louisiana,LA,83761.0,19250,63268.0,7759.0
+Xavier University of Louisiana,LA,39183.0,14000,52184.0,2534.0
+College of the Atlantic,ME,56334.0,17723,40264.0,358.0
+Bates College,ME,80440.0,12442,69498.0,1753.0
+Bowdoin College,ME,80390.0,12000,82735.0,1846.0
+Maine College of Health Professions,ME,20438.0,12000,79840.0,228.0
+Central Maine Community College,ME,15160.0,6568,42448.0,2828.0
+Colby College,ME,81550.0,15000,80490.0,2282.0
+Eastern Maine Community College,ME,17184.0,7833,41704.0,1692.0
+Kennebec Valley Community College,ME,13978.0,9500,36035.0,1538.0
+The Landing School,ME,31362.0,7500,65849.0,43.0
+University of Maine at Augusta,ME,18813.0,13215,40342.0,2759.0
+University of Maine at Farmington,ME,24103.0,16722,44433.0,1131.0
+University of Maine at Fort Kent,ME,18532.0,12778,51077.0,638.0
+University of Maine,ME,26418.0,16750,48653.0,8341.0
+Maine Maritime Academy,ME,30166.0,26812,89964.0,888.0
+University of Maine at Presque Isle,ME,18663.0,8275,40956.0,1362.0
+University of New England,ME,60706.0,20000,55921.0,2189.0
+Northern Maine Community College,ME,15581.0,8225,43348.0,577.0
+Maine College of Art & Design,ME,57027.0,19000,40778.0,415.0
+Saint Joseph's College of Maine,ME,58452.0,19576,59045.0,930.0
+Southern Maine Community College,ME,16400.0,6046,41661.0,5279.0
+University of Southern Maine,ME,21381.0,12887,49958.0,4245.0
+Thomas College,ME,43757.0,20000,44991.0,688.0
+Unity Environmental University,ME,20915.0,4752,37852.0,5619.0
+Washington County Community College,ME,13240.0,5500,34407.0,397.0
+Allegany College of Maryland,MD,16082.0,8250,38476.0,1743.0
+Anne Arundel Community College,MD,20548.0,6250,46219.0,8570.0
+Baltimore City Community College,MD,15745.0,PS,36025.0,3234.0
+University of Baltimore,MD,27477.0,18972,61335.0,1276.0
+Bowie State University,MD,24302.0,12861,54537.0,5207.0
+Capitol Technology University,MD,40900.0,12000,85035.0,259.0
+Cecil College,MD,15109.0,8250,43952.0,1369.0
+College of Southern Maryland,MD,13570.0,5500,44435.0,4422.0
+Chesapeake College,MD,10090.0,PS,36301.0,1275.0
+Washington Adventist University,MD,34570.0,22750,64249.0,522.0
+Coppin State University,MD,20152.0,15606,46490.0,1756.0
+Frederick Community College,MD,8886.0,5500,46449.0,4116.0
+Frostburg State University,MD,26500.0,14867,55493.0,2849.0
+Garrett College,MD,11688.0,6560,35823.0,424.0
+Goucher College,MD,68893.0,17882,53023.0,948.0
+Hagerstown Community College,MD,11798.0,6500,41615.0,2783.0
+Harford Community College,MD,14290.0,7241,44608.0,3628.0
+Hood College,MD,59174.0,18185,57089.0,1202.0
+Howard Community College,MD,15645.0,8250,49020.0,6779.0
+Johns Hopkins University,MD,81300.0,9000,87555.0,5617.0
+Loyola University Maryland,MD,71606.0,23882,82652.0,3975.0
+University of Maryland Global Campus,MD,19790.0,10500,65287.0,48238.0
+University of Maryland-Baltimore County,MD,27935.0,15750,69960.0,10434.0
+University of Maryland-College Park,MD,28073.0,17000,82860.0,30246.0
+Maryland Institute College of Art,MD,71366.0,16250,45212.0,1319.0
+University of Maryland Eastern Shore,MD,27799.0,18500,47697.0,2165.0
+Montgomery College,MD,14410.0,7000,50159.0,13519.0
+Morgan State University,MD,24778.0,19500,50698.0,8293.0
+Mount St. Mary's University,MD,62078.0,15000,64072.0,1806.0
+Ner Israel Rabbinical College,MD,25650.0,PS,66330.0,292.0
+Notre Dame of Maryland University,MD,60362.0,17990,65344.0,684.0
+Prince George's Community College,MD,16107.0,6000,47548.0,8049.0
+Salisbury University,MD,26134.0,15750,61515.0,6056.0
+St. Mary's College of Maryland,MD,31319.0,17000,60110.0,1566.0
+St. John's College,MD,52683.0,19500,51584.0,488.0
+Towson University,MD,26621.0,15362,64390.0,16400.0
+Stevenson University,MD,57322.0,21500,62079.0,3027.0
+Washington College,MD,70191.0,21000,65518.0,890.0
+McDaniel College,MD,62974.0,15000,60663.0,1652.0
+Wor-Wic Community College,MD,12199.0,3500,36748.0,2047.0
+American International College,MA,55463.0,21063,53124.0,1097.0
+Amherst College,MA,83650.0,12000,77644.0,1907.0
+Anna Maria College,MA,61106.0,17500,46651.0,948.0
+Assumption University,MA,61777.0,24250,74895.0,1664.0
+Babson College,MA,77248.0,19000,123938.0,2696.0
+Boston Baptist College,MA,26691.0,PS,34159.0,31.0
+Bay Path University,MA,47064.0,19100,55383.0,1186.0
+Bentley University,MA,77082.0,24007,120959.0,4288.0
+Berklee College of Music,MA,69874.0,15750,33647.0,7510.0
+Berkshire Community College,MA,17544.0,8250,38832.0,1100.0
+Boston Architectural College,MA,47152.0,24750,62123.0,269.0
+Boston College,MA,83683.0,17962,103937.0,9865.0
+Boston University,MA,82694.0,21500,83238.0,17850.0
+Brandeis University,MA,82123.0,23250,77231.0,3663.0
+Bridgewater State University,MA,25164.0,18746,57466.0,7899.0
+Bristol Community College,MA,11846.0,5250,38663.0,5073.0
+Bunker Hill Community College,MA,14699.0,5500,47618.0,7322.0
+Cape Cod Community College,MA,14356.0,6443,43670.0,2223.0
+Clark University,MA,64426.0,22141,62381.0,2336.0
+Curry College,MA,61556.0,18320,54400.0,1757.0
+Dean College,MA,62802.0,12000,38109.0,1142.0
+Eastern Nazarene College,MA,41948.0,19500,54727.0,378.0
+Emerson College,MA,77153.0,19000,62832.0,4145.0
+Emmanuel College,MA,63864.0,22969,68245.0,1874.0
+Endicott College,MA,57533.0,23250,58336.0,3101.0
+Fisher College,MA,52723.0,12500,49669.0,1138.0
+Fitchburg State University,MA,24517.0,18220,53874.0,2825.0
+Framingham State University,MA,26539.0,17224,52349.0,2556.0
+Benjamin Franklin Cummings Institute of Technology,MA,27631.0,9500,57556.0,412.0
+Gordon College,MA,41160.0,23250,52119.0,1247.0
+Greenfield Community College,MA,13752.0,5500,37132.0,1232.0
+Hampshire College,MA,71224.0,25000,46938.0,716.0
+Harvard University,MA,82842.0,12500,101817.0,7755.0
+Hellenic College-Holy Cross Greek Orthodox School of Theology,MA,41282.0,13521,51724.0,49.0
+College of the Holy Cross,MA,76510.0,25879,90543.0,3015.0
+Holyoke Community College,MA,13587.0,4750,37277.0,3164.0
+Lasell University,MA,63387.0,21500,49705.0,1152.0
+Lesley University,MA,49226.0,15000,51173.0,1252.0
+Longy School of Music of Bard College,MA,67675.0,19000,46543.0,34.0
+University of Massachusetts-Lowell,MA,29521.0,18250,64874.0,11632.0
+University of Massachusetts-Amherst,MA,33389.0,20000,71631.0,23694.0
+University of Massachusetts-Boston,MA,29698.0,15000,65865.0,11848.0
+Massachusetts Bay Community College,MA,13346.0,4620,52654.0,3156.0
+MCPHS University,MA,58975.0,25000,125557.0,3474.0
+Massachusetts College of Art and Design,MA,32256.0,19500,43582.0,1812.0
+Massachusetts Institute of Technology,MA,79850.0,12462,143372.0,4571.0
+Massachusetts Maritime Academy,MA,37721.0,20500,82392.0,1270.0
+Massasoit Community College,MA,13887.0,5567,46111.0,3699.0
+Merrimack College,MA,68089.0,23750,75584.0,4043.0
+Middlesex Community College,MA,10759.0,5187,50651.0,4658.0
+Montserrat College of Art,MA,56284.0,23707,33022.0,261.0
+Mount Holyoke College,MA,77545.0,18258,58418.0,2198.0
+Mount Wachusett Community College,MA,14330.0,5500,41118.0,2554.0
+The New England Conservatory of Music,MA,77870.0,19500,34483.0,371.0
+Nichols College,MA,55871.0,19500,58063.0,1152.0
+Massachusetts College of Liberal Arts,MA,27705.0,15750,48102.0,748.0
+North Shore Community College,MA,13204.0,5500,45391.0,4055.0
+Northeastern University,MA,81353.0,22000,92538.0,15719.0
+Northern Essex Community College,MA,11921.0,5661,42862.0,3350.0
+College of Our Lady of the Elms,MA,53145.0,20500,51540.0,951.0
+Quincy College,MA,19527.0,8300,52506.0,2126.0
+Quinsigamond Community College,MA,13295.0,10500,45949.0,5413.0
+Regis College,MA,64315.0,23750,52873.0,1061.0
+Roxbury Community College,MA,15897.0,PS,38773.0,1583.0
+Salem State University,MA,27615.0,19500,56662.0,4286.0
+Simmons University,MA,63512.0,21780,63494.0,1750.0
+Bard College at Simon's Rock,MA,82465.0,19000,46543.0,237.0
+Smith College,MA,82134.0,13500,64027.0,2501.0
+Springfield College,MA,57942.0,23000,48036.0,1916.0
+Springfield Technical Community College,MA,14223.0,4996,36966.0,3965.0
+University of Massachusetts-Dartmouth,MA,31677.0,18133,68804.0,5289.0
+Stonehill College,MA,68412.0,23472,77745.0,2477.0
+Suffolk University,MA,62822.0,20500,67506.0,4434.0
+Tufts University,MA,84600.0,15043,83214.0,6804.0
+Wellesley College,MA,83050.0,8700,84803.0,2318.0
+Wentworth Institute of Technology,MA,55030.0,18500,82721.0,3641.0
+Western New England University,MA,58933.0,19500,73157.0,2508.0
+Westfield State University,MA,26435.0,15250,57346.0,3481.0
+Wheaton College (Massachusetts),MA,76819.0,23000,67725.0,1744.0
+Williams College,MA,81164.0,11667,88665.0,2060.0
+Worcester Polytechnic Institute,MA,75678.0,26978,103470.0,5344.0
+Worcester State University,MA,21586.0,13916,60624.0,3963.0
+Adrian College,MI,54950.0,16000,55504.0,1635.0
+Albion College,MI,68794.0,19500,58799.0,1347.0
+Alma College,MI,61380.0,23250,54742.0,1208.0
+Alpena Community College,MI,11320.0,5500,36442.0,715.0
+Andrews University,MI,43670.0,19716,53187.0,1262.0
+Aquinas College,MI,49018.0,17992,49584.0,1201.0
+Baker College,MI,23456.0,16753,35833.0,3026.0
+Bay de Noc Community College,MI,15674.0,8000,35090.0,1100.0
+Calvin University,MI,53286.0,19500,58375.0,2921.0
+Carnegie Institute,MI,21863.0,8568,38244.0,103.0
+Central Michigan University,MI,26470.0,23183,55874.0,9916.0
+Mott Community College,MI,12495.0,5975,32538.0,5152.0
+Cleary University,MI,39110.0,12469,54186.0,774.0
+Concordia University Ann Arbor,MI,50378.0,19500,56075.0,918.0
+College for Creative Studies,MI,61238.0,19000,44860.0,1285.0
+Davenport University,MI,35864.0,17353,45099.0,3213.0
+Delta College,MI,11953.0,6000,37781.0,6061.0
+MIAT College of Technology,MI,26607.0,9500,62575.0,1645.0
+University of Detroit Mercy,MI,40069.0,19950,71030.0,2289.0
+Dorsey College,MI,30059.0,9500,29392.0,547.0
+Eastern Michigan University,MI,28168.0,18750,51793.0,10751.0
+Ferris State University,MI,26066.0,15500,54735.0,8087.0
+Glen Oaks Community College,MI,14645.0,5543,37540.0,577.0
+Kettering University,MI,58610.0,26563,94823.0,1279.0
+Gogebic Community College,MI,13398.0,6000,40950.0,508.0
+Grace Christian University,MI,24637.0,9500,41663.0,707.0
+Cornerstone University,MI,40737.0,18634,47314.0,1387.0
+Grand Rapids Community College,MI,16255.0,5500,38377.0,10530.0
+Grand Valley State University,MI,26578.0,19500,56118.0,19073.0
+Great Lakes Christian College,MI,29664.0,12250,31053.0,130.0
+Henry Ford College,MI,9983.0,7300,34795.0,8695.0
+Hope College,MI,52206.0,23250,58427.0,3274.0
+Jackson College,MI,15892.0,8750,36898.0,3563.0
+Kalamazoo College,MI,71173.0,22810,65590.0,1175.0
+Kalamazoo Valley Community College,MI,9517.0,5054,38618.0,4885.0
+Kellogg Community College,MI,11939.0,10258,38329.0,2781.0
+Kirtland Community College,MI,15802.0,7043,35831.0,965.0
+Lake Michigan College,MI,17782.0,5104,34466.0,1811.0
+Lake Superior State University,MI,25757.0,14764,49045.0,1391.0
+Lansing Community College,MI,10180.0,5613,39206.0,7756.0
+Lawrence Technological University,MI,54266.0,20500,69151.0,1701.0
+Macomb Community College,MI,10719.0,3500,41596.0,14285.0
+Madonna University,MI,38809.0,19000,59058.0,1637.0
+Rochester University,MI,36215.0,14750,48707.0,827.0
+University of Michigan-Ann Arbor,MI,33345.0,17625,83648.0,33488.0
