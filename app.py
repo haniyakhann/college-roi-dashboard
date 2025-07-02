@@ -20,8 +20,6 @@ st.title("U.S. College ROI Dashboard")
 @st.cache_data
 def load_data():
     df = pd.read_csv("college_scorecard_small.csv", low_memory=False)
-    df = df[['INSTNM', 'STABBR', 'COSTT4_A', 'DEBT_MDN', 'MD_EARN_WNE_P10', 'UGDS']]
-    df.columns = ['Institution', 'State', 'Cost', 'MedianDebt', 'MedianEarnings', 'UndergradSize']
     for col in ['Cost', 'MedianDebt', 'MedianEarnings', 'UndergradSize']:
         df[col] = pd.to_numeric(df[col], errors='coerce')
     df.dropna(inplace=True)
