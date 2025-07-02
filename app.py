@@ -19,7 +19,7 @@ st.title("U.S. College ROI Dashboard")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("C:\\Users\\ahani\\Desktop\\U.S. College ROI Dashboard\\college_scorecard.csv", low_memory=False)
+    df = pd.read_csv("college_scorecard_small.csv", low_memory=False)
     df = df[['INSTNM', 'STABBR', 'COSTT4_A', 'DEBT_MDN', 'MD_EARN_WNE_P10', 'UGDS']]
     df.columns = ['Institution', 'State', 'Cost', 'MedianDebt', 'MedianEarnings', 'UndergradSize']
     for col in ['Cost', 'MedianDebt', 'MedianEarnings', 'UndergradSize']:
